@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CountDownTimer</string>
+    <string name="service_message">Count Down Timer is running</string>
+    <string name="channel_name">Count Down Background Service</string>
+    <string name="no_records">No records found</string>
+</resources>
